@@ -47,12 +47,20 @@ La búsqueda de aplicaciones para niños que los incitan a moverse fue práctica
 
 ## Definición
 ![user Persona](img/camila.png)
+![user Persona](img/cristobal.png)
+![user Persona](img/ana.png)
+![user Persona](img/juan.png)
 
-Se crea el arquetipo de Camila para identificar el usuario principal.
+Se crearon 4 arquetipos o user Persona para abordar distintas problemáticas, las cuales se pueden resumir en lo siguiente:
+
+* En su tiempo libre algunos niños se aburren demasiado por lo que recurren al celular antes que realizar actividad física.
+* Los niños responden a estímulos visuales para desenvolverse, logran concentrarse con historias gráficas, sin embargo sólo se focalizan en ver más que en moverse.
+* Los niños y niñas buscan compartir entre ellos, y tener una suerte de competencia donde observan que es lo que pueden hacer respecto a sus amigos.
+* Ciertos niños prefieren los videojuegos antes que cualquier otra actividad, presentando cierta adicción a ellos.
 
 ## Ideación
 
-Para responder a la problemática se hizo una aplicación movil de un juego que consiste en realizar etapas de ejercicio. El primer nivel, que es el más básico consistió en ejercicios de equilibrio (debido a lo dificil de ilustrar los movimientos sólo se trabajó este para el prototipado). Para ello se trabajó con ilustraciones, donde la historia principal se trata de un personaje que debe llegar a un castillo. La aplicación invita a superar retos para que el personaje vaya avanzando.
+Para responder a las problemáticas se hizo una aplicación movil de un juego que consiste en realizar etapas de ejercicio. El primer nivel, que es el más básico consistió en ejercicios de equilibrio (debido a lo dificil de ilustrar los movimientos sólo se trabajó este para el prototipado). Para ello se trabajó con ilustraciones, donde la historia principal se trata de un personaje que debe llegar a un castillo. La aplicación invita a superar retos para que el personaje vaya avanzando. Lo más importante era dar
 
 ![user flow](img/userflow.jpeg)
 
@@ -66,20 +74,35 @@ Se Puede ver el prototipo final de la aplicación [aqui](https://marvelapp.com/6
 
 ### Test Primer prototipo con niños
 
-Para poder ver a los niños en acción, decidí realizar un testeo inicial con un prototipo de alta fidelidad (Ya que los niños respoden a colores, formas e interacción con objetos). En esta primera experiencia realizada con niños de 6-7 años observé que a los niños de esta edad les cuesta entender instrucciones escritas, por lo que no pudieron navegar la aplicación mobil. Sin embargo al testearlo con un niño de 12 años, el niño siguió las instrucciones. Esta primera aproximación sirvió para enfocarme en un publico objetivo de mayor edad, el límite inicial del próximo testeo sería de 8 a 12 años.
+Para poder ver a los niños en acción y ver si realmente se movían, decidí realizar un testeo inicial con un prototipo de alta fidelidad (Ya que los niños respoden a colores, formas e interacción con objetos) como primera medida. En esta primera experiencia realizada con niños de 6-7 años observé que a los niños de esta edad les cuesta entender instrucciones escritas, por lo que no pudieron navegar la aplicación móvil. Sin embargo al testearlo con un niño de 12 años, el niño siguió las instrucciones. Esta primera aproximación sirvió para enfocarme en un publico objetivo de mayor edad, el límite inicial del próximo testeo sería de 8 a 12 años.
 
 Se Puede ver los videos de los primeros testeos [aqui](https://drive.google.com/open?id=1FM_uCleKgskhrmwTxsY4WpL3nfbqH6lB).
 
 ### Test Segundo prototipo con niños desde 8 años
 
-Al probarlo con niños de mayor edad obtuve mayor respuesta a la aplicación, sin embargo algunos niños no entendieron las instrucciones del juego, o sólo miraron sin repetir los movimientos, es por ello que se tuvo que cambiar el texto de las instrucciones de la aplicación, además apretaban lugares de la pantalla que no correspondían, sin embargo hubo niños que realizaron los movimientos, siguiendo las instrucciones de la aplicación.
+Al probarlo con niños de mayor edad obtuve mayor respuesta a la aplicación, sin embargo algunos niños no entendieron las instrucciones del juego, o sólo miraron sin repetir los movimientos, es por ello que se tuvo que cambiar el texto de las instrucciones de la aplicación, además apretaban lugares de la pantalla que no correspondían, sin embargo hubo niños que realizaron los movimientos, siguiendo las instrucciones de la aplicación. La tarea principal, que era lograr el movimiento de los niños se consiguió con cierto nivel de aprobación, pero no se dio solución a otras problemáticas.
 
 Se Puede ver los videos de los segundos testeos [aqui](https://drive.google.com/open?id=1JtM4NYkIVgeZh2-x2472ZeqpLtEng7Gj).
 
+### Lo pendiente
 
+Como parte de la siguiente etapa quedo pendiente lo siguiente:
 
+* Sección para compartir entre amigos e invitar a jugar.
+* Generar mayor estimulación mediante la gamificación.
+* Involucrar de mayor modo a los padres.
 
+Tras lo anterior se generó un mapa de contenidos que vincula socialmente a los niños, mediante el registro de la aplicación o mediante el registro de Facebook, la idea es compartir a través de la red social y de este modo estimular a los amigos del usuario compartiendo videos de lo realizado, además compartiendo dentro de la propia aplicación. Al incluir un puntaje promueve el desafio consigo mismo y con los amigos.Aún queda pendiente como involucrar a los padres.
 
+#### Mapa sitio
+
+![Mapa sitio](img/mapasitio.png)
+
+#### Mapa historia
+
+El desarrollo de la historia consta de 4 etapas divididas en Movimientos solo, Movimiento acompañado, Movimiento con objetos y Movimientos coreográficos. Para este caso de estudio habría que realizar una investigación más a fondo respecto a los tipos de ejercicios que debiesen realizar los niños, los cuales debiesen ser indicados por un profesional del área.
+
+![Mapa historia](img/mapahistoria.png)
 
 
 
