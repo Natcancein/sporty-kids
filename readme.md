@@ -1,9 +1,5 @@
 # Sporty Kids
 
-## Proceso de diseño
-
-![sporty kids](img/proceso.png)
-
 ## Descubrimiento e Investigación
 
 ### User Research:
