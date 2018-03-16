@@ -29,7 +29,7 @@ Al conversar con una profesora de educación física pude acotar más al usuario
 
 [Link a entrevista profesora](https://docs.google.com/document/d/1ebSVCGMC7u8uIfjiQSMcPBQg5upiGO0Vf4Ya5TtgLvw/edit?usp=sharing).
 
-#### Aplicaciones relacionadas con el movimiento
+#### Aplicaciones relacionadas con el movimiento para niños
 
 ##### Just Dance Now
 ![just-Dance](img/just-dance.jpg)
@@ -41,9 +41,26 @@ En esta aplicación se pueden indicar los pasos y realizar los pasos que uno ind
 
 ##### Fitness para niños - Yoga
 ![yoga](img/yoga.png)
-Interfaz bastante minimalista, los niños realizan las poses en un determinado tiempo. Son tiempos cortos de atención. El usuario principal es un niño o niña de 6 a 8 años 
+Interfaz bastante minimalista, los niños realizan las poses en un determinado tiempo. Son tiempos cortos de atención. El usuario principal es un niño o niña de 6 a 10 años 
 
 La búsqueda de aplicaciones para niños que los incitan a moverse fue prácticamente nula (Salvo las aplicaciones indicadas anteriormente), la mayoría de aplicaciones encontradas para niños son para estimular aspectos cognitivos pero no físicos. De las aplicaciones encontradas el factor común que tienen todas es imitar el movimiento de los personajes.
+
+#### Aplicaciones relacionadas con el movimiento para adultos
+
+Al investigar aplicaciones de deporte para adulto, me encontré con características similares: videos de los movimientos asociados a un cronómetro y categorías de ejercicio. Sin embargo interfaces de Workout Trainer y Nike eran bastante complejas, no quedaba claro la visibilidad del sistema en general. Si para mí es dificil entender lo que habia que hacer, para un niño lo sería con mayor razón. La aplicación Seven Minutes en cambio era bastante simple, tenía ilustraciones para relizar los ejercicios y era bastante intuitiva.
+
+Además el flujo de interacción en aplicaciones como Workout trainer era sumamente largo para llegar a realizar actividad física (cómo lo pueden ver en la imagen de abajo):
+
+
+##### Workout Trainer
+![workout](img/workout.png)
+
+##### Nike Training
+![Nike](img/nike.png)
+
+##### Seven Minutes
+![Nike](img/seven.png)
+
 
 ## Definición
 ![user Persona](img/camila.png)
