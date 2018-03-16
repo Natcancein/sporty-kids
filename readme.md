@@ -14,6 +14,8 @@ La obesidad infantil es el principal problema de salud pública del país, por s
 
 Según los índices de la OMS, se recomiendan 60 minutos de actividad moderada o vigorosa para escolares y adolescentes, todos los días de la semana. En Chile 7 de cada diez niños no cumple con estos estándares, mientras que en adolescentes, son 8 de cada diez.
 
+“La obesidad está matando a más personas que el narcotráfico, el crimen, la violencia y los conflictos en nuestra región”, subraya la FAO, basada en el informe ‘Panorama de la seguridad alimentaria y nutricional en América Latina y el Caribe 2017’, de la Organización Panamericana de la Salud (OPS), presentado en Santiago de Chile.
+
 [Fuente](http://www.activehealthykidschile.com/wp-content/uploads/2017/04/Reporte-Actividad-F%C3%ADsica-Infantil-Chile.pdf "Actividad física infantil Chile").
 
 ![Baja Actividad física Niños](img/baja-actividad-fisica.jpg)
