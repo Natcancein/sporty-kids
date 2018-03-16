@@ -22,9 +22,9 @@ Según los índices de la OMS, se recomiendan 60 minutos de actividad moderada o
 
 #### Conclusiones entrevista niños y profesora:
 
-Tras realizar entrevistas con niños pequeños (de 6 a 11 años), descubrí que los niños en su tiempo libre realizan actividad física de distinta índole pero en tramos cortos, a menos que realicen un taller (la mayoría no asiste a talleres). La mayoría de los niños maneja celular y computador y los ocupan también en su tiempo libre. La principal actividad que les gusta a la mayoría de niños y niñas es jugar, ya sea videojuegos, ver televisión y ambos comparten el gusto por realizar coreografías o bailes, los cuales los realizan solos o acompañados por amigos o hermanos.
+Tras realizar entrevistas con niños pequeños (de 6 a 11 años), descubrí que los niños en su tiempo libre realizan actividad física de distinta índole pero en tramos cortos, a menos que realicen un taller (la mayoría no asiste a talleres). La mayoría de los niños maneja celular y computador,los ocupan en su tiempo libre, lo cual contribuye a su sedentarismo e inminente obesidad. La principal actividad que les gusta a la mayoría de niños y niñas es jugar, ya sea videojuegos, ver televisión y ambos comparten el gusto por realizar coreografías o bailes, los cuales los realizan solos o acompañados por amigos o hermanos.
 
-Al conversar con una profesora de educación física pude acotar más al usuario, ya que las actividades de los niños pequeños se pueden clasificar etariamente por rangos de 6 a 8 años y de 8 a 10 años. Para este caso de estudio me enfocaré en los niños de 8 a 12 años, los cuales no tienen grandes diferencias por el género, vale decir los niños y niñas realizan el mismo tipo de actividades motoras, sus motivaciones son explorar su cuerpo y el desarrollo de la motricidad motora gruesa, reconocimiento de su cuerpo en general. En cuanto a la motivación, los niños pequeños necesitan desafíos y recompensas, y un tono en el lenguaje que desafie sus propias capacidades, no como una orden sino con un tono de “puedes realizar esto o aquello”.
+Al conversar con una profesora de educación física pude acotar más al usuario, ya que las actividades de los niños pequeños se pueden clasificar etariamente por rangos de 6 a 8 años y de 8 a 12 años. Para este caso de estudio me enfocaré en los niños de 8 a 12 años, los cuales no tienen grandes diferencias por el género, vale decir los niños y niñas realizan el mismo tipo de actividades motoras, sus motivaciones son explorar su cuerpo y el desarrollo de la motricidad motora gruesa, reconocimiento de su cuerpo en general. En cuanto a la motivación, los niños pequeños necesitan desafíos y recompensas, y un tono en el lenguaje que desafie sus propias capacidades, no como una orden sino con un tono de “puedes realizar esto o aquello”.
 
 
 [Link a entrevistas niños](https://drive.google.com/open?id=1GXLUzrHwTPrPRG8KOGoRcGxBckHlbLqLgerTXCceWL4 "Actividad física infantil Chile").
@@ -32,6 +32,8 @@ Al conversar con una profesora de educación física pude acotar más al usuario
 [Link a entrevista profesora](https://docs.google.com/document/d/1ebSVCGMC7u8uIfjiQSMcPBQg5upiGO0Vf4Ya5TtgLvw/edit?usp=sharing).
 
 #### Aplicaciones relacionadas con el movimiento para niños
+
+La búsqueda de aplicaciones para niños que los incitan a moverse fue prácticamente nula (Salvo las aplicaciones indicadas más abajo), la mayoría de aplicaciones encontradas para niños son para estimular aspectos cognitivos pero no físicos. De las aplicaciones encontradas el factor común que tienen todas es imitar el movimiento de los personajes.
 
 ##### Just Dance Now
 ![just-Dance](img/just-dance.jpg)
@@ -45,7 +47,6 @@ En esta aplicación se pueden indicar los pasos y realizar los pasos que uno ind
 ![yoga](img/yoga.png)
 Interfaz bastante minimalista, los niños realizan las poses en un determinado tiempo. Son tiempos cortos de atención. El usuario principal es un niño o niña de 6 a 10 años 
 
-La búsqueda de aplicaciones para niños que los incitan a moverse fue prácticamente nula (Salvo las aplicaciones indicadas anteriormente), la mayoría de aplicaciones encontradas para niños son para estimular aspectos cognitivos pero no físicos. De las aplicaciones encontradas el factor común que tienen todas es imitar el movimiento de los personajes.
 
 #### Aplicaciones relacionadas con el movimiento para adultos
 
