@@ -81,7 +81,7 @@ Se crearon 4 arquetipos o user Persona para abordar distintas problemáticas, la
 
 ## Ideación
 
-Para responder a las problemáticas se hizo una aplicación movil de un juego que consiste en realizar etapas de ejercicio. El primer nivel, que es el más básico consistió en ejercicios de equilibrio (debido a lo dificil de ilustrar los movimientos sólo se trabajó este para el prototipado). Para ello se trabajó con ilustraciones, donde la historia principal se trata de un personaje que debe llegar a un castillo. La aplicación invita a superar retos para que el personaje vaya avanzando. Lo más importante era dar
+Para responder a las problemáticas se hizo una aplicación movil de un juego que consiste en realizar etapas de ejercicio. El primer nivel, que es el más básico consistió en ejercicios de equilibrio (debido a lo dificil de ilustrar los movimientos sólo se trabajó este para el prototipado). Para ello se trabajó con ilustraciones, donde la historia principal se trata de un personaje que debe llegar a un castillo. La aplicación invita a superar retos para que el personaje vaya avanzando.
 
 ![user flow](img/userflow.jpeg)
 
