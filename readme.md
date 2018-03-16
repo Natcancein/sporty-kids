@@ -63,10 +63,6 @@ Además el flujo de interacción en aplicaciones como Workout trainer era sumame
 
 
 ## Definición
-![user Persona](img/camila.png)
-![user Persona](img/cristobal.png)
-![user Persona](img/ana.png)
-![user Persona](img/juan.png)
 
 Se crearon 4 arquetipos o user Persona para abordar distintas problemáticas, las cuales se pueden resumir en lo siguiente:
 
@@ -74,6 +70,12 @@ Se crearon 4 arquetipos o user Persona para abordar distintas problemáticas, la
 * Los niños responden a estímulos visuales para desenvolverse, logran concentrarse con historias gráficas, sin embargo sólo se focalizan en ver más que en moverse.
 * Los niños y niñas buscan compartir entre ellos, y tener una suerte de competencia donde observan que es lo que pueden hacer respecto a sus amigos.
 * Ciertos niños prefieren los videojuegos antes que cualquier otra actividad, presentando cierta adicción a ellos.
+
+![user Persona](img/camila.png)
+![user Persona](img/cristobal.png)
+![user Persona](img/ana.png)
+![user Persona](img/juan.png)
+
 
 ## Ideación
 
